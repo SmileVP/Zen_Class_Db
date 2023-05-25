@@ -18,7 +18,7 @@ company_drives
 
 mentors
 
-Sample:
+Sample of the created collection document:-
 
 1.users collection document (Which I have created)
 
